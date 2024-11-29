@@ -2,3 +2,6 @@
 Environment: Microsoft Azure Machine Learning Studio.
 Algorithms used: RandomForest, LightGBM
 Training Data Set Source: https://aka.ms/bike-rentals?azure-portal=true
+
+Grafico gerado
+![Gráfico gerado](caminho da imagem)
