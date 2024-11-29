@@ -4,4 +4,4 @@ Algorithms used: RandomForest, LightGBM
 Training Data Set Source: https://aka.ms/bike-rentals?azure-portal=true
 
 Grafico gerado
-![Gráfico gerado](caminho da imagem)
+![Logo do Markdown](img/markdown.png)
